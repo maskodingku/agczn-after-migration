@@ -34,5 +34,10 @@ Panduan terdiri dari 2 jenis, yaitu :
    `"endpoint":"agczn.my.id"`
 
 11. Jangan lupa save.
+12. Selanjutnya lakukan restart pm2.
+
+    `pm2 restart all` atau `pm2 restart app-agczn`
+
+13. Done.
 
 # B. Panduan untuk pengguna baru yang sebelumnya BELUM PERNAH MENJALANKAN script agczn
