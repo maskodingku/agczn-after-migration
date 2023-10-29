@@ -12,5 +12,7 @@ Panduan terdiri dari 2 jenis, yaitu :
 2. Silahkan unzip, Di dalamnya terdapat file penting yaitu :  `database.js`, `package-lock.json` dan `package.json`.
 3. 3 file ini akan kita pindahkan.
 4. Untuk file `database.js`, silahkan pindahkan ke directory `core`. Silahkan hapus file `database.js yang lama`.
+   Lihat gambar berikut :
+   ![Image](img-01.png)
 
 # B. Panduan untuk pengguna baru yang sebelumnya BELUM PERNAH MENJALANKAN script agczn
