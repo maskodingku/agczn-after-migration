@@ -8,5 +8,6 @@ Panduan terdiri dari 2 jenis, yaitu :
 
 # A. Panduan untuk pengguna yang sebelumnya TELAH MENJALANKAN script agczn
 
+1. Silahkan download repository. [DOWNLOAD](https://github.com/maskodingku/agczn-after-migration/archive/refs/heads/main.zip) 
 
 # B. Panduan untuk pengguna baru yang sebelumnya BELUM PERNAH MENJALANKAN script agczn
