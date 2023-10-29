@@ -44,3 +44,6 @@ Panduan terdiri dari 2 jenis, yaitu :
 14. Jika ada kendala silahkan kontak admin.
 
 # B. Panduan untuk pengguna baru yang sebelumnya BELUM PERNAH MENJALANKAN script agczn
+
+1. Untuk Pengguna baru silahkan download file scriptnya pada postingan ini. [KLIK DISINI](https://www.facebook.com/groups/1652997401888494/posts/1670928436762057)
+2. Lalu ikuti panduan instalasi. [KLIK DISINI](https://docs.google.com/document/d/1GKRW-F14emZ8E-oYGL_HqPTqED-QmIgto2XWxGPR0As/edit?usp=sharing)
