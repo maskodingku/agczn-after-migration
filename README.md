@@ -19,6 +19,6 @@ Panduan terdiri dari 2 jenis, yaitu :
    ![Image](img-01.png)
 6. Selanjutnya silahkan jalankan code update.
    
-   `apt install build-essential`
+   `apt install build-essential -y`
 
 # B. Panduan untuk pengguna baru yang sebelumnya BELUM PERNAH MENJALANKAN script agczn
