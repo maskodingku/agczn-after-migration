@@ -25,6 +25,9 @@ Panduan terdiri dari 2 jenis, yaitu :
 
    `npm install`
 
-9. 
+9. Selanjutnya silahkan buka file `config.js`. Lalu fokus pada code berikut :
+
+   `"endpoint":"m8b7.ldn.idrivee2-16.com"`
+
 
 # B. Panduan untuk pengguna baru yang sebelumnya BELUM PERNAH MENJALANKAN script agczn
