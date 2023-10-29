@@ -33,7 +33,7 @@ Panduan terdiri dari 2 jenis, yaitu :
 
 10. Ganti `m8b7.ldn.idrivee2-16.com` dengan `agczn.my.id`, sehingga menjadi :
 
-   `"endpoint":"agczn.my.id"`
+      `"endpoint":"agczn.my.id"`
 
 11. Jangan lupa save.
 12. Selanjutnya lakukan restart pm2.
