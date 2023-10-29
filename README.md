@@ -29,6 +29,8 @@ Panduan terdiri dari 2 jenis, yaitu :
 
    `"endpoint":"m8b7.ldn.idrivee2-16.com"`
 
+   Ingat ya, ganti semua code ini, setidaknya ada 22 baris code seperti ini dan harus diganti.
+
 10. Ganti `m8b7.ldn.idrivee2-16.com` dengan `agczn.my.id`, sehingga menjadi :
 
    `"endpoint":"agczn.my.id"`
