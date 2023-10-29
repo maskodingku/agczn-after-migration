@@ -14,7 +14,6 @@ Panduan terdiri dari 2 jenis, yaitu :
 4. Untuk file `database.js`, silahkan pindahkan ke directory `core`. Silahkan hapus file `database.js yang lama`. Lihat gambar berikut :
    
    ![Image](img-01.png)
-
 5. Untuk file `package-lock.json` dan `package.json` silahkan pindahkan ke folder `agczn`. Silahkan hapus file `package-lock.json dan package.json yang lama`. Lihat gambar berikut :
 
 # B. Panduan untuk pengguna baru yang sebelumnya BELUM PERNAH MENJALANKAN script agczn
