@@ -29,5 +29,9 @@ Panduan terdiri dari 2 jenis, yaitu :
 
    `"endpoint":"m8b7.ldn.idrivee2-16.com"`
 
+10. Ganti `m8b7.ldn.idrivee2-16.com` dengan `agczn.my.id`, sehingga menjadi :
+
+   `"endpoint":"agczn.my.id"`
+
 
 # B. Panduan untuk pengguna baru yang sebelumnya BELUM PERNAH MENJALANKAN script agczn
