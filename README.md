@@ -40,6 +40,7 @@ Panduan terdiri dari 2 jenis, yaitu :
 
     `pm2 restart all` atau `pm2 restart app-agczn`
 
-13. Done.
+13. Done, silahkan akses web kamu.
+14. Jika ada kendala silahkan kontak admin.
 
 # B. Panduan untuk pengguna baru yang sebelumnya BELUM PERNAH MENJALANKAN script agczn
