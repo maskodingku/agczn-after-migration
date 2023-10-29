@@ -35,13 +35,22 @@ Panduan terdiri dari 2 jenis, yaitu :
 
       `"endpoint":"agczn.my.id"`
 
-11. Jangan lupa save.
-12. Selanjutnya lakukan restart pm2.
+11. Selanjutnya buka file `app-agczn.js` yang terdapat pada folder `agczn`.
+12. Cari code berikut :
+
+      `await database.init(config.database);`
+
+13. lalu ganti dengan kode berikut :
+
+      `await database.init(config.database,server,app);`
+
+14. Jangan lupa save.
+15. Selanjutnya lakukan restart pm2.
 
     `pm2 restart all` atau `pm2 restart app-agczn`
 
-13. Done, silahkan akses web kamu.
-14. Jika ada kendala silahkan kontak admin.
+16. Done, silahkan akses web kamu.
+17. Jika ada kendala silahkan kontak admin.
 
 # B. Panduan untuk pengguna baru yang sebelumnya BELUM PERNAH MENJALANKAN script agczn
 
