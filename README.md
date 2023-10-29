@@ -20,5 +20,11 @@ Panduan terdiri dari 2 jenis, yaitu :
 6. Selanjutnya silahkan jalankan code update.
    
    `apt install build-essential -y`
+   
+8. Pastikan kamu telah melakukan `cd` ke lokasi directory 'agczn'. Lalu lakukan install npm.
+
+   `npm install`
+
+9. 
 
 # B. Panduan untuk pengguna baru yang sebelumnya BELUM PERNAH MENJALANKAN script agczn
