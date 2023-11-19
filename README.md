@@ -19,7 +19,7 @@ Panduan terdiri dari 2 jenis, yaitu :
    ![Image](img-02.png)
 6. Selanjutnya silahkan jalankan code update.
    
-   `apt install install build-essential libcairo2-dev libpango1.0-dev libjpeg-dev libgif-dev librsvg2-dev -y`
+   `apt install build-essential libcairo2-dev libpango1.0-dev libjpeg-dev libgif-dev librsvg2-dev -y`
    
 8. Pastikan kamu telah melakukan `cd` ke lokasi directory 'agczn'. Lalu lakukan install npm.
 
